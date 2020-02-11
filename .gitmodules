@@ -2,3 +2,7 @@
 	path = queue
 	url = https://github.com/OCA/queue.git
 	branch = 13.0
+[submodule "smartbiotech-project-addons"]
+	path = smartbiotech-project-addons
+	url = git@git.myidealis.be:smartbiotech/project-addons.git
+	branch = 13.0
